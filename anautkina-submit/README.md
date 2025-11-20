@@ -33,7 +33,7 @@ Total runs recorded: 135. Total compute time ≈ 7 minutes
 
 LEVEL 4: ✅ [If completed]
 - Project name: ___
-- What it does: ___
+- What it does: Text adventure game
 - [Demo link]
 
 TIME SPENT: ___ hours
